@@ -780,6 +780,10 @@ button:focus {
                         <p> Hey, Are you there? </p>
                         <span class="time">10:32 am</span>
                       </li>
+                      <li class="sender">
+                        <p> Hey, Are you there? </p>
+                        <span class="time">10:32 am</span>
+                      </li>
                       <li class="repaly">
                         <p>How are you?</p>
                         <span class="time">10:35 am</span>
