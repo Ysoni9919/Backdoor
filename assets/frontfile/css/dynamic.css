@@ -1,0 +1,98 @@
+/* Dynamic CSS define */
+
+body {
+	background: #1E1E1E;
+/*	font-family: 'Kodchasan';*/
+	color: #ffff;
+}
+.margin-top-bottom-class{
+	margin: 7px 0px 10px 0px;
+}
+.margin-top-bottom-class-register{
+	margin: 40px 0px 10px 0px;
+}
+
+.fs{
+	font-style: normal;
+}
+
+.fw{
+	font-weight: 700;
+}
+.center {
+	align-items: center;
+}
+.account {
+	color: #857F7F;
+}
+
+.white-text {
+  color: #FFFFFF;
+  line-height: 21px;
+}
+.btn-css {
+  width: 100%;
+  background: #3330C5;
+  border-radius: 10px;
+  padding: 10px;
+}
+.sidebar-sec-back {
+    background-color: #363434;
+    height: 94vh;
+    overflow: auto;
+}
+.sidebar-sec-back-2 {
+  background-color: #363434;
+ 
+}
+.sidebar-bg-2 {
+  background-color: #363434;
+
+}
+.sidebar-bg-3 {
+  background-color: #363434;
+
+}
+.sidebar-back {
+  background-color: #363434;
+}
+.bgdark {
+	background-color: black;
+}
+.content {
+    height: 91vh;
+    background: darkgrey;
+}
+
+.table-bg {
+	background-color: #1E1E1E;
+}
+
+
+nav.navbar.navbar-expand-lg.table-bg {
+  background-color: #1E1E1E;
+}
+img.dir_logo {
+    width: 11%;
+}
+
+.content-overflow {
+    height: 91vh;
+    background: darkgrey;
+    overflow-y: scroll;
+}
+img.logo-center {
+    margin: 22% 5% 6% 5%;
+}
+
+.set-width-height {
+  position: relative;
+  left: 80px;
+  width: 100%;
+  height: 100vh;
+}
+
+
+
+
+

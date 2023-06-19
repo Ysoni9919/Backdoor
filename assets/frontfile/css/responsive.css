@@ -1,0 +1,24 @@
+
+@media screen and ( max-width: 1900px ) {
+  button.w3-button.w3-white.w3-xxlarge {
+      display: none;
+  }
+}
+@media screen and ( max-width: 767px ) {
+  button.w3-button.w3-white.w3-xxlarge {
+      display: inline-block;
+  }
+  .col-sm-auto {
+    display: none;
+  }
+  .col-md-3 {
+    display: none;
+  }
+  
+}
+
+/*@media only screen and (max-width: 800px) and (min-width: 1200px) {
+    button.w3-button.w3-white.w3-xxlarge {
+      display: none;
+  }
+}*/
